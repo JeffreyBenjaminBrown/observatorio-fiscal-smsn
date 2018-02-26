@@ -1,0 +1,32 @@
+@id 75qASKVNO30HoLfT
+@title data sets with purchase-looking variables, in recip-100
+@created 1519067090492
+@text ```
+gcfhr: rural
+gcfhu: urban
+gcfhp: "preceptor" = income earner
+
+
+## definitely:
+st2_sea_enc_gcfhr_csv.txt:      ['SOPA ARROZ CARNE LENTEJA PLATANO JUGO' 'AREPA' 'GASEOSA Y SANDWICH'
+  food only, at least judging from text
+
+st2_sea_enc_gcfhu_diarios_csv.txt:      [nan 'POLLO ASADO' 'LENTEJA ENSALADA ARROZ MADURO PAPA Y JUGO' ...,
+  food only, at least judging from text
+
+st2_sea_enc_gcfhup_diarios_csv.txt:     [nan 'PANADERIA' 'CAFETERIA DEL COLEGIO' 'COLEGIO
+  food only, at least judging from text
+
+st2_sea_enc_gdrj1_csv.txt:      [nan 'ARROZ LENTEJAS ALBONDIGAS ENSALADAS Y JUGO' 'PAN DE MANTEQUILLA'
+  food only, at least judging from text
+
+st2_sea_enc_gsdu_diarios_csv.txt:       [nan 'RAMA' 'PAN TAJADO' 'UNIDAD' 'ATADO' 'BOLSAS' 'SOBRE' 'UNIDADES'
+  only units of food (the specific food specified elsewhere), at least judging from text
+
+## maybe
+st2_sea_enc_gdr_csv.txt:        [nan 'PAQUETE' 'RAMA' 'UNIDADES' 'BANDEJA' 'BOLSA' 'UNIDAD' 'CUBOS GRANDES
+  only units of food (the specific food specified elsewhere), at least judging from text
+
+st2_sea_enc_gsdp_diarios_csv.txt:       [nan 'UNIDAD' 'BOTELLA' 'GALONES' 'PAGO']
+  only units of food (the specific food specified elsewhere), at least judging from text
+```

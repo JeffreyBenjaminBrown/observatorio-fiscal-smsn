@@ -1,0 +1,24 @@
+@id J5d8QwsGGbxdy1Wy
+@title data sets with purchase-looking variables, in recip-10
+@created 1519229803380
+@text ```
+## definitely:
+st2_sea_enc_gcfhr_csv.txt:      ['SOPA ARROZ CARNE LENTEJA PLATANO JUGO' 'AREPA' 'GASEOSA Y SANDWICH'
+  food, judging from text
+  a couple thousand unique values
+
+st2_sea_enc_gcfhu_diarios_csv.txt:      [nan 'POLLO ASADO' 'LENTEJA ENSALADA ARROZ MADURO PAPA Y JUGO' ...,
+  !!! over a hundred thousand unique values
+
+st2_sea_enc_gcfhup_diarios_csv.txt:     [nan 'PANADERIA' 'CAFETERIA DEL COLEGIO' 'COLEGIO
+
+st2_sea_enc_gdrj1_csv.txt:      [nan 'ARROZ LENTEJAS ALBONDIGAS ENSALADAS Y JUGO' 'PAN DE MANTEQUILLA'
+
+st2_sea_enc_gsdu_diarios_csv.txt:       [nan 'RAMA' 'PAN TAJADO' 'UNIDAD' 'ATADO' 'BOLSAS' 'SOBRE' 'UNIDADES'
+
+
+## maybe
+st2_sea_enc_gdr_csv.txt:        [nan 'PAQUETE' 'RAMA' 'UNIDADES' 'BANDEJA' 'BOLSA' 'UNIDAD' 'CUBOS GRANDES
+
+st2_sea_enc_gsdp_diarios_csv.txt:       [nan 'UNIDAD' 'BOTELLA' 'GALONES' 'PAGO']
+```
