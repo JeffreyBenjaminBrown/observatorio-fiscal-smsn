@@ -1,0 +1,32 @@
+@id L8n12IRgdv87tjFQ
+@title a DIAN data wish list
+@created 1519431778423
+@text ```
+inspired by the IRS variables the TPC uses
+
+age
+filing status (single, married, head of household ...)
+  if married, to who?
+  if head of household, who else is in it?
+income by source
+  inc. transfer payments
+children | dependents
+  if extant, who are they?
+special expenditures, inc. source (e.g. employer might provide health insurance)
+  mortgage
+  children
+  medical
+  insurance
+  education
+  electric vehicles, solar panels, other energy-friendly things that get special treatment
+  retirement and other kinds of savings
+  income tax
+    inc. employer's share of payroll taxes
+
+TPC imputes:
+  assets, liabilities
+  education
+  health (esp. disability) and insurance
+  retirement
+  income tax liability
+```
