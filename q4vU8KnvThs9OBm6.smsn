@@ -1,0 +1,10 @@
+@id q4vU8KnvThs9OBm6
+@title VAT // "exempt" vs. "excluded"
+@created 1525383691406
+@text ```
+0% vat = exempted
+   if Y buys A from X at tax rate T > 0 and sells it as exempted, can get "una devolucion" of the T
+
+"untaxed" = excluded
+   in that case, cannot get a devolucion; likely passes it on to consumer
+```

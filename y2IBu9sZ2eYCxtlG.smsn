@@ -1,0 +1,14 @@
+@id y2IBu9sZ2eYCxtlG
+@title features, problems, tools
+@created 1523915238075
+@text ```
+features
+  personalize greetings
+  send HTML, pictures
+
+problems
+  can a webpage host arbitrary python, haskell?
+
+tools
+  ghcjs: works with stack
+```

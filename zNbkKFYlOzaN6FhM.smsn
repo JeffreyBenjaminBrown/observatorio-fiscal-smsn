@@ -1,0 +1,18 @@
+@id zNbkKFYlOzaN6FhM
+@title algorithm
+@created 1524259015083
+@text ```
+the subscribe data:
+  import, merge the from-launch subscribe data and the ongoing subscribe data
+  sort by email, and within that by timestamp
+  collapse within each email address to the latest
+
+the cancel data:
+  import it
+  sort by email, and within that by timestamp
+  collapse within email address to latest
+
+for each latest subscription, if the corresponding latest cancellation is later, delete the subscription
+
+produce a spreadsheet with email, names, 1st apellido, 2nd apellido
+```

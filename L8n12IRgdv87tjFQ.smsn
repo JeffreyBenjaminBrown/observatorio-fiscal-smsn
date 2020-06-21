@@ -1,9 +1,7 @@
 @id L8n12IRgdv87tjFQ
-@title a DIAN data wish list
+@title a DIAN data wish list, inspired by TPC
 @created 1519431778423
 @text ```
-inspired by the IRS variables the TPC uses
-
 age
 filing status (single, married, head of household ...)
   if married, to who?

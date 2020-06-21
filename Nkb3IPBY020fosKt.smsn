@@ -1,0 +1,17 @@
+@id Nkb3IPBY020fosKt
+@title ? how do value, value(credit) and value(cash) relate
+@created 1525471546506
+@text ```
+value is around ten times smaller than the other two -- 2*10^7 rather than x*10^8
+
+                 value  value(credit)   value(total/cash)
+missing     2587495.00   7.372877e+06        5.340831e+06 
+count       4870748.00   8.536600e+04        2.117412e+06 
+mean          34643.73   2.026055e+05        8.613679e+04 
+std           69252.13   2.216047e+06        9.126722e+05 
+min               0.00   0.000000e+00        0.000000e+00 
+25%            6952.38   0.000000e+00        4.000000e+03 
+50%           16511.90   0.000000e+00        1.100000e+04 
+75%           34761.90   9.900000e+01        4.200000e+04 
+max        23725000.00   1.800000e+08        3.900000e+08
+```

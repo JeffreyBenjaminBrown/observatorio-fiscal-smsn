@@ -1,0 +1,5 @@
+@id tc7RE123qAp3LElV
+@title [done]. fork the continuumio/anaconda3 Dockerfile, install make and jupyter
+@created 1522864661511
+@text add "/opt/conda/bin/conda install jupyter -y"
+@weight 0.25

@@ -1,0 +1,23 @@
+@id i0DWkf0zBdsEJUJL
+@title household-communal should be 0-1, not 1-2 (and reversed polarity, if documentation is right)
+@created 1525470951340
+@text ```
+David, WhatsApp, 2018-05-08: "That question is only asking about food consumed outside by rural households"
+
+NH_CGPRCFH_P7
+10. Gasto del hogar (1) o gasto personal (2)
+1 » Del hogar
+2 » Personal
+
+.          household-communal
+missing            3483085.00   
+count              3975158.00   
+mean                     1.07   
+std                      0.25   
+min                      1.00   
+25%                      1.00   
+50%                      1.00   
+75%                      1.00   
+max                      2.00
+```
+* :nGW2MN19MfiqF65y: 

@@ -1,0 +1,9 @@
+@id Qul0awCFGtYZvYR7
+@title commands to start mailing list code environment
+@created 1524262034950
+@text ```
+sudo docker run --name list -itd -p 8887:8887 -v /home/jeff/mailing-list:/mnt continuumio/anaconda3
+  or if mailing-list/ is buried under javeriana/:
+    sudo docker run --name list -itd -p 8887:8887 -v /home/jeff/javeriana/mailing-list:/mnt continuumio/anaconda3
+sudo docker exec -it list bash
+```

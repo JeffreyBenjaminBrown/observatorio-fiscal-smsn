@@ -1,4 +1,10 @@
 @id JIvYwAARAK6HpB2F
-@title coicop is a data set in enph-2017. that might be a problem, because I subsample it
+@title irrelevant for now : disallow subsampling of coicop data set in enph-2017
 @created 1520550608118
-@priority 0.5
+@text ```
+Irrelevant because we don't use the coicop.csv data set from the ENPH.
+  We use a different coicop data set, data/vat/coicop-vat.csv, which never gets subsampled.
+
+One solution: Code the subsamples of COICOP all to be the full COICOP data setN
+```
+@weight 0.25
